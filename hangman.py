@@ -60,7 +60,7 @@ ________________
 """
 
 list_hangman = [hangman0, hangman1, hangman2, hangman3, hangman4, hangman5, hangman6]
-word_list = ['TopKek', 'Token', 'AyyLMAO', 'Dnevnik', 'Praksa', 'Pingvin'] #ADD POSSIBILITY TO INPUT A SENTENCE
+word_list = ['TopKek', 'Token', 'AyyLMAO', 'Dnevnik', 'Praksa'] #ADD POSSIBILITY TO INPUT A SENTENCE
 
 
 
